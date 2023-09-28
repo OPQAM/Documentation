@@ -6,18 +6,18 @@ The idea here is to facilitate the study of Linux tools using the command line i
 
 ## Getting Started
 
-__	First, let's ensure our system is up to date and that Tmux is installed:__
+_First, let's ensure our system is up to date and that Tmux is installed:_
 
 **sudo apt update -y**
 **sudo apt install tmux -y**
 
-__	After the installation is complete, start Tmux by simply typing:__
+_After the installation is complete, start Tmux by simply typing:_
 
 **tmux**
 
 Now, you're in a Tmux terminal screen with a distinctive green status bar at the bottom.
 
-__	Tmux provides a range of commands accessible through a specific key combination: Ctrl-b. For instance:__
+_Tmux provides a range of commands accessible through a specific key combination: Ctrl-b. For instance:_
 
     (directional arrow) -> Move to the terminal pane in that direction.
     % -> Split the window horizontally.
@@ -31,7 +31,7 @@ __	Tmux provides a range of commands accessible through a specific key combinati
 
 While Tmux offers many commands, for our purpose, we only need to create extra panes and learn how to close them.
 
-__	Creating a Study Session (after opening Tmux - all single letter commands after pressing Ctrl-b):__
+_Creating a Study Session (after opening Tmux - all single letter commands after pressing Ctrl-b):_
 
 **"**
 **$**
@@ -39,19 +39,19 @@ __	Creating a Study Session (after opening Tmux - all single letter commands aft
 
 This sequence creates a Tmux session, adds a second pane at the bottom, and renames the session.
 
-__	Now, install ncat and clear the screen:__
+_Now, install ncat and clear the screen:_
 
 **sudo apt install ncat -y**
 **clear**
 
-__	Navigate to the lower pane with the ncat manual page:__
+_Navigate to the lower pane with the ncat manual page:_
 
 **(down arrow)**
 **man ncat**
 
 You now have two panes—one above, ready for your work, and one below, displaying the ncat manual page.
 
-![Here's the end result. We can now start working!](IMAGE.URL)
+![Here's the end result. We can now start working!]([IMAGE.URL](https://raw.githubusercontent.com/OPQAM/Documentation/master/tmuxTwoScreens.png))
 
 Practical Use Case: SSH and SCP Learning.
 
@@ -62,24 +62,24 @@ Imagine you're learning about SSH. You can create three panes:
 
 With this setup, you can practice SSH commands in the upper panes while referring to the manual page in the lower pane. You can also introduce SCP to transfer files between machines, change file permissions, and explore other SSH-related tasks—all within the same Tmux session.
 
-__	Detaching and Reattaching:__
+_Detaching and Reattaching:_
 
 One of Tmux's most powerful features is the ability to detach and reattach sessions:
 
-__	Starting (and naming) a new session:__
+_Starting (and naming) a new session:_
 
 **tmux new-session -s <name_of_session>**
 
-__	Detaching the session (again, Ctrl-b is used first):__
+_Detaching the session (again, Ctrl-b is used first):_
 
 
 **d**
 
-__	Reattaching the session:__
+_Reattaching the session:_
 
 **tmux attach-session -t <name_of_session>**
 
-__	So, you can "Ctrl-b" and "d" at any time, go for a stroll, and when you want to continue your study session. In our example:__
+_So, you can "Ctrl-b" and "d" at any time, go for a stroll, and when you want to continue your study session. In our example:_
 
 **tmux attach-session -t ncat-Study**
 
