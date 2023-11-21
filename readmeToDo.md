@@ -8,3 +8,5 @@ Otherwise I will, indeed, spend a lot of time troubleshooting non issues.
 
 How exactly do SSH keys (really) work?
 Understand the Agent, how it is loaded, how it can be configured and managed, what are its uses.
+
+- I have to load the agent, ok. But even after loading the agent and pointing ssh-add to the correct key, I'm being told that it's not able to load some other key (it still works) - what configuration process is asking to load that key? Is there a key associated with this (root) user?
