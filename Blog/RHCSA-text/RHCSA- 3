@@ -1,0 +1,20 @@
+Day 3 - 30-11-2023
+
+Today's endeavours into the realm of RHCSA brought me to the end of Chapter 2 of Sander van Vugt's book. I finished  with help pages, specifically info, pinfo, and man pages, proving to be an invaluable resource for navigating the vast command-line landscape.
+
+I took some time jotting down notes for later QoL command searching and usage. 
+
+I also did a refresher on fundamental concepts STDOUT and STDERR redirecting concepts, and the practical distinction between subshells and shells.
+
+In the evening, I'll be revisiting my autoPull.sh script, and try to find more elegant and effective solution to that mess. 
+
+ 
+
+That's all she wrote.
+
+Until next time, fellow Linux enthusiasts!
+
+ 
+
+opqam
+
