@@ -1,0 +1,19 @@
+DAY 2 - 29-11-2023
+
+Today's study session delved into the shell environment, including environment variables, subshells, and login shells. As I explored the various configuration files that govern the shell environment (/etc/profile, /etc/bashrc, ~/.bash_profile and ~/.bashrc), a thought struck me regarding an earlier script I had created. This script was designed to automatically pull all my repositories upon logging into any of my Linux machines.
+
+An issue arose when all but one of the machines failed to retain both SSH agent and key, rendering part of the script's purpose moot. Troubleshooting revealed that the problem stemmed from the script being executed in a subshell, which is discarded upon completion. This hurdle was overcome by sourcing the script instead of executing it directly.
+
+However, revisiting the RHCSA exam prep materials poked my curiosity on alternative approaches that might be more subtle and effective, such as not making my script run in a subshell (duh). I'll need to revisit this topic as soon as time permits.
+
+In addition to the shell environment, today's exploration also included system messages (/etc/motd and /etc/issue).
+
+ 
+
+That's all folks.
+
+Until next time, fellow Linux enthusiasts!
+
+ 
+
+opqam 
