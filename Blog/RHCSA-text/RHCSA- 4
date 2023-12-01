@@ -1,0 +1,21 @@
+Day 4 - 01-12-2023
+
+ 
+
+Today I reviewed the file system hierarchy, exploring the purpose of directories like /sys, /srv/run, and delved into essential file manager tools such as ls, pwd, mkdir, rmdir, cp, mv, ..., and
+
+I also mounted and unmounted devices, discerning which devices are present + detectable and mountable.
+
+Meanwhile, while seeking to eliminate the subshell issue that caused the SSH agent and key to be dropped I discovered that subshells are inevitable when executing scripts independently.
+
+Therefore, the most effective approach is to retain the subshell execution and source the script from /.bashrc. This ensures that the script remains active and the SSH agent and key are retained upon completion (in other words, running it from /.bash_profile still makes the script run in a subshell).
+
+There is still an issue with the script, or with how git is configured on my machines. You can read more about that here.
+
+ 
+
+Poo-tee-weet.
+
+Until next time, fellow Linux enthusiasts!
+
+ opqam
