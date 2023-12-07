@@ -1,0 +1,18 @@
+Day 10 - 07-12-2023
+
+ 
+Today was, yet again, text processing skills day, with grep, awk and sed.
+Grep, in particular, is a versatile command-line utility for searching text patterns.
+ 
+So, given its importance, I took some time reviewing stuff I've learned before, and discovering a couple of new commands and uses.
+ 
+I also touched on sed and awk, which are less known tools (to me).
+The idea behind these exercises is to precisely get the information we desire, or to even replace it with other text strings that we'd rather have instead.
+ 
+Thus endeth chapter 4.
+Moving on to chapter 5, I'll be covering local consoles and SSH.
+ 
+ 
+Carpe Diem.
+ 
+ opqam
