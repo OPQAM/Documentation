@@ -1,0 +1,13 @@
+Day 7 - 04-12-2023
+
+Today's plunge delved into the realm of archives and compressed files, exploring the intricacies of tar, zip, gzip, bzip2, and other essential tools for data management. You might think that these are just quick to review and done with, but they have their peculiarities and it's quite easy to think you're doing something while doing another altogether (and not get any error report in the process).
+
+In addition to this, I dedicated some time to unravel yet another issue with my autoPull.sh script. I stopped its nefarious copying of updated repository files into my homefolder. You can check the new, simplified, version of the script here and the troubleshooting steps here.
+
+Now it's time to shift my focus towards preparing for my upcoming CCNA 2 theoretical final exam. This marks another significant milestone in my journey towards CCNA certification. 
+For the next two months, I'll be focusing on CCNA 3, preparing a final project and taking the exam - hopefully passing it.
+
+
+Ciao, bambini.
+Until next time, fellow Linux enthusiasts!
+opqam
