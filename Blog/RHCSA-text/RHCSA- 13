@@ -1,0 +1,20 @@
+10-12-2023
+
+ 
+
+Today I studied user and group permissions. I delved into changing groups and setting appropriate permissions, understanding the distinctions between read, write, and execute for both files and directories, and the significance of temporary permissions.
+
+The application of permissions: absolute and relative
+
+Managing advanced permissions, with an exploration of SUID, SGID, and Sticky Bits with their respective values of 4, 2, and 1. 
+
+Then I went through default permissions using umask (ACLs aren't covered in RHCSA 9, apparently). Exploring the difference between applying to all users or specific users provided.
+
+I finally plunged into user-extended attributes (particularly 'A', 'a', 'c', 'D', 'I', 'i', 's', and 'u'). Understanding these attributes is crucial for refining control over files and directories. So, yeah. Practice, practice, practice.
+
+
+Stay Black, dudes.
+
+ 
+
+opqam
