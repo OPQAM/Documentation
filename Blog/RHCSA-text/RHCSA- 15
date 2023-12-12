@@ -1,0 +1,20 @@
+12-12-2023
+
+15 days. Not too shabby, hey?
+
+Today I (mostly) reviewed Networking stuff - most of it I've already covered while studying Linux in class and by myself (on Debian machines). But it's always good to review this stuff and there's always some learning to be done.
+
+So, I dipped into essential network commands, including ip a (or ip addr show), ip link show, and ip route show. The dipping extended to learning about netstat and understanding NetworkManager, the default network management tool for RHEL.
+
+ I also read about tools like nmtui and nmcli. The former, in particular, provides the user with a user-friendly interface for configuring network settings, adding a layer of simplicity to the process. Probably not my cup of tea. Besides, I like nmcli.
+
+I also covered Hostnames and DNS, their configuration and configuration files. Which to touch, and which to avoid.
+
+Thus endeth Part I of this book, and I'll soon start perusing Part II, namely software management.
+But I'm not jumping into that tomorrow. I still have to practice quite a bit, make sure I know what I have to do and why I'm doing it.
+
+ 
+
+As always, onward and upward!
+
+ opqam
