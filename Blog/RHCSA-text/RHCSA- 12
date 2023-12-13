@@ -1,0 +1,19 @@
+09-12-2023
+
+On the twelfth day of my RHCSA 100-day challenge, I delved into user and group management and configuration.
+
+I touched upon Policykit, and explored the use of essential commands like sudo and su. I also covered commands such as visudo, usermod, and groupmod, along with an exploration of fundamental files like /usr/bin/useradd, /usr/bin/passwd, /etc/sudoers.d, etc.
+
+ A part of the material also touched upon configuration files, including /etc/profile, /etc/bashrc, ~/.bashrc, and ~/.profile.
+
+I now need to solidify my study with a few exercises, to remind myself of which pitfalls and common mistakes are there waiting to get me.
+
+The next chapter, chapter 7, will deal with  Permissions Management.
+
+ Right. Promised myself I would never take more than 30 minutes to write these blog posts + add them to media online...
+
+ 
+
+ Tschüss!
+
+opqam
