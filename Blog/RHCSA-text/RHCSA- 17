@@ -1,0 +1,17 @@
+14-12-2023
+
+ 
+
+On the seventeenth day of my RHCSA 100-day challenge, the focus shifted to software management, specifically DNF and RPM.
+
+I started with DNF (Dandified Yum) and RPM (Red Hat Package Manager), and explored tools for Red Hat Subscription Management (RHSM), delving into subscription management practices. Dry? Oh, yes. Very. But pivotal for ensuring compliance and access to essential resources.
+
+I also got to do some practical exercises, working with repositories and software packages, learned about key folders and files, such as /etc/yum.conf.d.
+
+Finally, I got to exeriment a bit, by creating a custom repository, which is useful, but not covered by the RHCSA.
+
+ 
+
+Beep!
+
+opqam
