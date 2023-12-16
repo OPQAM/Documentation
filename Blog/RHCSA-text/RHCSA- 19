@@ -1,0 +1,15 @@
+16-12-2023
+
+Day 19 of the RHCSA 100-day challenge continued the exploration into the world of package management. The day unfolded with a focused practice session and plunging yet again into the art of managing RPM packages.
+
+I got to read quite a bit, mostly man files and through the querying of RPM packages, listing docs, config files, and scripts.
+
+A detour from the RHCSA curriculum took me on a brief excursion into the land of Bacula. As part of my current ATEC classes - we have a security module where we're starting with backups (namely Bacula), so I got some practice with scheduling and selecting different backup tasks for machines.
+
+Next up will be Chapter 10 - Managing Processes.
+
+ 
+
+That's All Folks!
+
+opqam
