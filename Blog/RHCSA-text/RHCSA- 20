@@ -1,0 +1,13 @@
+20-12-2023
+
+This session starts where Chapter 10 starts, and it's all about Managing Processes:with an overview of three primary process types: shell jobs, initiated from the command line; daemons, providing services usually at boot; and kernel threads.
+
+I got to read a bit about thread management and foreground and background processes as well, revisiting pulling processes into the foreground or dispatching them to the background, along with pausing or terminating them.
+
+Exploring parent-child relations highlighted the interconnectedness of process hierarchies. The study session wrapped up with a survey of command-line tools for practical process management.
+
+Later, I delved into process priorities, understanding how the system allocates resources and manages execution order, and finally covered cgroups, exploring the three system areas or slices: system, user, and machine.
+
+
+Have a fine week, folks.
+opqam
