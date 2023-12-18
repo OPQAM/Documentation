@@ -1,0 +1,18 @@
+21-12-2023
+
+Continuing the exploration of Chapter 10 - Process Management, Day 21 delved into the intricacies of parent-child processes. A fascinating tidbit of Linux history surfaced: in the past, halting a parent process also terminated its children. However, contemporary Linux systems, with systemd as the parent, have evolved beyond this constraint, leaving me curious about the dynamics in distros without systemd.
+
+I got to read a bit more on Signals, with insights into when and how to use vital commands like SIGTERM, SIGKILL, and SIGHUP. The exploration expanded to using 'TOP' for monitoring processes, assessing their current state, and facilitating process management.
+
+I also revisited zombie processes, coupling that with an effective method to eliminate them from the system (well, other than a reboot, that is).
+
+I ended my study for today with a loot into Performance Optimization with tuned.
+
+Tomorrow's agenda includes practical exercises, consolidating the concepts learned so far.
+Wednesday it's all about Chapter 11 - Working with Systemd.
+
+ 
+
+Behave
+
+opqam
