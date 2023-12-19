@@ -1,0 +1,13 @@
+19-12-2023
+
+Day 22 witnessed a shift as I decided to, instead of devoting myself to studying the previous chapters, venture into the next one: Systemd. The rationale behind this decision was to align my studies with the upcoming exploration of task scheduling using 'cron' and 'at,' topics recently covered in my Linux course. That will be my 'break', where I get to practice the concepts I've covered so far.
+
+The day unfolded with a thorough review of systemd, delving into the intricacies of service units, their sections, and the array of options for effective systemd management. The exploration extended to socket units and target units, broadening my understanding of the systemd ecosystem.
+
+A refresher on initiating services, troubleshooting non-functional services, and ensuring they consistently start at boot proved invaluable. The day's learning also encompassed the nuances of managing dependencies and options within systemd.
+
+That wraps up Day 22, paving the way for hands-on practice and further exploration in the days ahead.
+
+ 
+I Fixed It!
+opqam
