@@ -1,0 +1,24 @@
+20-12-2023
+
+Day 23 of the RHCSA 100-day challenge saw me practicing some of the concepts I studied in the previous 11 chapters. Here's a snapshot of said chapters:
+
+    Installation
+    Essential Tools
+    File Management Tools
+    Text Files
+    Connecting to RHEL9
+    User and Group Management
+    Permissions Management
+    Configuring Network
+    Managing Software
+    Managing Processes
+    Systemd
+
+Some long and intricate commands reminded me of the importance of both man pages and consulting them adequately. Using man will be essential during the RHCSA exam.
+
+Tomorrow promises more hands-on practice. Then we shall resume with Chapter 12 (with 'cron' and 'at').
+
+
+Nothing to see here. Move along, citizen!
+
+opqam
