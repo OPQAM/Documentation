@@ -1,0 +1,30 @@
+22-12-2023
+
+Today I got to study task scheduling, as I started Chapter 12. In the RHCSA curriculum, this is divided into three key components:
+
+    - Systemd timers
+
+    - Cron
+
+    - AT
+
+As part of the learning journey, I delved into systemd timers, understanding their intricacies and practical usage within the Linux environment (I've worked quite a bit with both crontab and at).
+
+Not much to delve into here. I got to learn about systemd logfiles and config files, and how it's actually scheduling jobs. But I do have a side comment, which comes from a friend telling me how they sometimes schedule jobs:
+
+So, instead of using AT, Cron or any other tool, if the idea is just to create a simple task in, say, an hour or so, they told me that they just run a job in the background using sleep.
+
+That got me thinking, and this is what I came up with, as an example:
+
+(sleep 3600; echo "Hello, World!") & 
+
+So, basically, the parenthesis create a subshell, and the ampersand keeps the subshell running in the background. And what we're wanting to do is to wait for an hour - just check for yourselves in the CLI: echo $(( 60 * 60 )) - then run the second command, which is an Hello World printed on screen.
+So, in fact, these concatenated commands will finish executing in an hour and will print to your terminal.
+Your terminal will be free and there will be a process waiting and running in the background. 
+
+Nifty, hey? 
+
+
+I like stuff like this.
+
+opqam
