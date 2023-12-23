@@ -1,0 +1,19 @@
+23-12-2023
+
+ 
+
+Today was all about configuring logging, with system logging, systemd-journald, configuring rsyslog and rotating log files.
+
+I was mostly reviewing stuff - the main exception being rsyslog, which I have barely used, if at all.
+
+I found out that systemd-journald stores stuff in binary in an event journal, which we then have to query. I have done that but didn't know that it was being kept in binary.
+
+The audit service was also mentioned in the book, albeit in passing only. 
+
+The end of the chapter is mostly about rsyslog, which I need to focus on later on, and a review of the most common logging directories: as expected, the /var/log/ family of folders. 
+
+The next two chapters are all about Storage Management. That's where I'm headed soon.
+
+Stay Fresh,
+
+opqam 
