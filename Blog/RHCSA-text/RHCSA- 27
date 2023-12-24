@@ -1,0 +1,17 @@
+
+24-12-2023
+
+Day 27 was a brief yet productive dive into  storage management in Linux.
+I got to review the distinction between GPT and MBR, work with fdisk, gdisk and parted, and read about (the so often forgotten) mebibytes Vs megabytes.
+
+I then covered partition utilities. Particularly, fdisk, gdisk and parted.
+
+Some practice followed with the creation of partitions on disk.
+
+But today is the even of Christmas, and a time for family and friends. I'll be bringing a Linux Security book with me, though, and do some reading if I can. 
+
+ 
+
+See you tomorrow!
+
+opqam
