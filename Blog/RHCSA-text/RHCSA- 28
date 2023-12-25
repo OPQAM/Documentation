@@ -1,0 +1,16 @@
+25-12-2023
+
+Day 28 extended the exploration of Storage Management in RHEL, a continuation of yesterday's work.
+
+Diving deeper into file systems, the study session encompassed the management of EXT4 and XFS file system properties.
+
+Then I got to touch on the significance of swap in system performance, with a focus on creating swap partitions and swap files. Optimal usage scenarios and controlling unwanted situations was covered.
+
+Revisiting the fundamentals of mounting and unmounting file systems included the automatic setup through /etc/fstab, configuring labels, and utilizing UUIDs. The chapter culminated with a glance at systemd mounts.
+
+Like I said before, the next few days will be focused on Storage Management and practice.
+
+
+Have a Merry Christmas!
+
+opqam
