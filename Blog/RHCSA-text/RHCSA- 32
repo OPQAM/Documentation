@@ -1,0 +1,15 @@
+29-12-2023
+
+Continuing my Chapter 15 studies, I delved deeper into LVMs. I learned how to create Volume Groups and Physical Volumes with a single command, streamlining the process.
+
+I also learned about physical extent size, laying the foundation for understanding the nuances of LVM architecture. I then created logical volumes and file systems, naming and setting the size of logical groups.
+
+I got to do some practice before calling it a day in this journey. Later on I'll be studying other aspects of Linux, concerning Apache, SSL, etc.
+
+I'm currently in a sort of half-holliday-half-workdays, which make it a bit hard to focus on the RHCSA. But we're getting there.
+
+ 
+
+No rush.
+
+opqam
