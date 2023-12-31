@@ -1,0 +1,15 @@
+31-12-2023
+
+On day 34 I finished Chapter 15, advancing into the realm of LVM. Namely, I covered resizing of LVM logical volumes, adjusting file systems and resizing volume groups to accommodate storage needs.
+
+I finished the chapter with Stratis - a storage solution that has been RHELs default since RHEL 8. I learned how to creating an managing Stratis storage.
+
+Tomorrow, a new year and a new Part and Chapter. It's the Kernel, baby.
+
+And we'll start with Basic Kernel Management.
+
+ 
+
+Happy New Year!
+
+opqam
