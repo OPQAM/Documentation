@@ -1,0 +1,19 @@
+01-01-2024
+
+ 
+
+Today I studied a bit more about the Linux Kernel, remembering its essential functions and interactions within the computer ecosystem.
+
+The notion of kernel modularity came up again and again, and I read a bit more about the loading of drivers as kernel modules.
+
+It was interesting to learn that a kernel with proprietary drivers is called by the RHEL community a "tainet kernel" and that such proprietary drivers can result in different issues related to a lower functionality of the hardware.
+
+I recalled a few commands like dmesg and journalctl --dmesg, and the importance of the /proc file system. I also learned about uname, a command providing valuable insights into the operating system.
+
+Tomorrow my journey continues, deepening my knowledge of the Linux Kernel.
+
+ 
+
+Have a fine week.
+
+opqam
