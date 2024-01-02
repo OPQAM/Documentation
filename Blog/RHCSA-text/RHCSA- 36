@@ -1,0 +1,14 @@
+02-01-2024
+
+Today I finished the introductory Kernel chapter, and went through some aspects of Linux kernel management.
+
+I got to learn quite a bit about kernel modules, covering hardware initialization, with the systemd-udevd process. The management of kernel modules came up, of course, with commands like lsmod, modinfo, and modprobe as useful tools. These commands not only facilitate the identification of available drivers for hardware devices but also offer means of managing kernel module parameters for system configuration.
+
+The chapter ended with a note on upgrading the Linux kernel,and how the old version isn't removed but stays available - something I knew, but which is good to remember.
+
+On a parallel track, I created a Linux cloud server, which adds a practical dimension to this learning. But more on that at a later date.
+
+
+As usual, let's keep this short. Ta-daa,
+
+opqam
