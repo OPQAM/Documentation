@@ -1,0 +1,23 @@
+04-01-2024
+
+Day 38 ushered a dive into Chapter 17, unraveling the intricacies of managing and understanding the Linux boot procedure. The exploration primarily focused on systemd targets.
+
+Key takeaways from the day's study session include:
+
+    Systemd Targets: Understanding of the four usable targets during booting—emergency.target, rescue.target, multi-user.target, and graphical.target.
+
+    Working with Targets: Insights into adding units to be automatically started, setting default targets, and running non-default targets for troubleshooting purposes.
+
+    Configuring Target Units: A grasp of configuring target units, navigating the intricacies of wants, managing systemd targets, and the steps involved in enabling a service.
+
+    Isolated Targets: Learning about isolated targets and the process of setting the default target.
+
+    GRUB2: An exploration of GRUB2, a crucial component in the boot process, understanding its functionalities and configurations.
+
+Tomorrow's plan is to finish chapter 17 and possibly move into the next one.
+
+ 
+
+Ve Vill Zee,
+
+opqam
