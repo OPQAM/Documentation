@@ -1,0 +1,181 @@
+Notas prep teste:
+
+---
+ip a    -> copy address
+
+apt install vsftpd
+
+vim /etc/vsftpd.conf
+
+write_enable=YES
+
+systemctl restart vsftpd
+---
+
+---
+mkdir -p /srv/pagina_nova
+
+touch /srv/pagina_nova/index.html
+
+cd /etc/apache2/sites-available
+
+cp 000... cartoons.conf
+
+vim cartoons.conf
+
+ServerName www.cartoons.pt
+ServerAlias cartoons.pt
+DirectoryIndex index.html
+DocumentRoot /srv/pagina_nova
+
+errorlog -> errorcartoon.log
+customlog -> accesscartoon.log
+
+vim /etc/apache2/apache2.conf
+
+(copy -add)
+
+<Directory /srv/pagina_nova/> ...
+
+a2ensite cartoons.conf
+
+systemctl restart apache2
+---
+
+CLIENTE -> (hosts file or /etc/hosts)
+
+WINDOWS - C:\Windows\System32\drivers\etc
+
+---
+(imagens)
+
+mkdir -p /srv/pagina_nova/imagens
+
+(importar com FTP)
+
+cp /home/opqam/*.jpg /srv/pagina_nova/imagens/
+
+chmod +r /srv/pagina_nova/imagens/*   (readable para todos)
+
+vim .../index.html
+
+<img src="imagens/scooby.jpg"/>
+
+(SE .php e não .html -> apt install php)
+---
+
+---
+SSL cert:
+openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout /etc/ssl/private/apache-cartoons.key
+ -out /etc/ssl/certs/apache-cartoons.crt
+
+cp /etc/apache2/sites-available/default-ssl.conf cartoons_ssl.conf
+
+vim cartoons_ssl.conf
+
+ADICIONAR:
+
+ServerName
+
+ALTERAR:
+
+DocumentRoot
+Path   (ssl certificatefile e sslcertificatekeyfile)
+/etc/ssl/certs/apache-cartoons.crt
+/etc/ssl/private/apache-cartoons.key
+
+vim /etc/sites-available/cartoons.conf
+
+Redirect permanent / https://www.cartoons.pt
+
+a2enmod ssl
+
+a2ensite cartoon_ssl.conf
+
+systemctl restart apache2
+
+(para novo certificado, criar novo ficheiro apartiro do default-ssl.conf)
+
+NOTA: A PARTIR DO MOMENTO QUE ESTAMOS A USAR HTTPS, é este ficheiro que toma conta. Ou seja, 
+cuidado com limitações, como páginas default!!! (DirectoryIndex)
+
+---
+HTACCESS
+
+chmod 755 /home/opqam           (!)
+
+touch /home/opqam/.htpasswd
+touch /home/opqam/.htgroups
+
+htpasswd -c /home/opqam/.htpasswd ricardo
+htpasswd /home/opqam/.htpasswd helena
+
+hctaccess -> criado onde estão os ficheiros da página a proteger
+
+touch /srv/pagina_nova/.htaccess
+
+(em .htaccess)
+
+AuthName "Acesso Restrito"
+AuthType Basic
+AuthUserFile /home/opqam/.htpasswd
+Require valid-user
+
+
+vim /etc/apache2/apache2.conf
+
+AllowOverride All
+
+(vefiricar que AccessFileName .htaccess está decomentado)
+
+systemctl restart apache2
+
+(só dois users com acesso:)
+Require user grsip atec
+
+(ficheiro específico com acessibilidade limitada)
+<Files “index2.html”>
+Require user ciber
+</Files>
+
+GRUPOS
+
+a2enmod authz_groupfile
+
+-> .htgroups junto a .htpasswd
+
+(editar htgroups com os grupos específicos:)
+
+grupoA: ricardo grsip helena
+administradores: renata paulo miguel
+
+(.htaccess)
+AuthGroupFile /home/opqam/.htgroups
+<Files “index2.html”>
+Require group grupoA
+</Files>
+
+USERDIR - skel (páginas pessoais a users 192.168.1.121/~ricardo)
+
+a2enmod userdir
+
+cd /etc/skel
+(criar as pastas que queremos nos homefolders)
+mkdir web
+echo a disponibilizar > web/index.html
+
+vim /etc/apache2/mods-available/userdir.conf
+
+public_html -> web:
+UserDir web
+Directory /home/*/web
+
+systemctl restart apache2
+
+(cuidado para as permissões da homefolder -> +x)~
+
+
+(Nota: se pedirem links diretamente usando o IP, temos que criar um symlink para a webpage:)
+cd /var/www/html
+rm index.html
+ln -s /web/index.html index.html
