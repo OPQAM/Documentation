@@ -88,3 +88,92 @@ The mob is the mother of tyrants.        - Diogenes
 Poverty is a virtue which one can teach oneself.        - Diogenes
 
 
+“You could not step twice into the same river.” — Heraclitus
+
+2. “We have two ears and one mouth, so we should listen more than we speak.” — Zeno of Citium
+
+3. “Fate guides the willing, but drags the unwilling.” — Cleanthes
+
+4. “There could be no justice, unless there were also injustice; no courage, unless there were cowardice; no truth, unless there were falsehood.” — Chrysippus
+
+5. “Let your desires be ruled by reason.” — Cicero
+
+6. “I begin to speak only when I’m certain what I’ll say isn’t better left unsaid.” — Cato the Younger
+
+7. “We suffer more often in imagination than in reality.” — Seneca
+
+8. “If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures.” — Musonius Rufus
+
+9. “Men are disturbed not by things but by the principles and notions which they form concerning things.” — Epictetus
+
+10. “You have power over your mind — not outside events. Realize this, and you will find strength.” — Marcus Aurelius
+The 10 Most Popular Stoic Quotes
+
+Okay, so much for the most important quotes from Stoics, but what about the most popular ones? Which ones resonate the most with people? On Goodreads, over 125 million members can vote on their favorite lines from books and authors. Below, we’ve compiled the ten most-voted lines from three of the most well-known Stoics, Marcus Aurelius, Seneca, and Epictetus (mainly because their writings have partially survived to this day) and one other philosopher, Epicurus.
+
+A few caveats: Epicurus founded his own school of thought, Epicureanism, and though it is often depicted as a philosophy contrary to Stoicism, the two approaches actually have a lot in common. Hence, some of his Stoic-leaning ideas are worth including. Each quote has received over 1,000 likes on Goodreads, some up to 5,000. Any line that would be a double mention from above was excluded, and so was any quote we couldn’t at least somewhat verify as correctly attributed.
+
+That said, here we go. These are the 10 most popular Stoic quotes, according to readers on Goodreads:
+
+11. “Dwell on the beauty of life. Watch the stars, and see yourself running with them.” ― Marcus Aurelius
+
+12. “The happiness of your life depends upon the quality of your thoughts.” ― Marcus Aurelius
+
+13. “Do not spoil what you have by desiring what you have not; remember that what you now have was once among the things you only hoped for.” ― Epicurus
+
+14. “Sometimes even to live is an act of courage.” — Seneca
+
+15. “Waste no more time arguing about what a good man should be. Be one.” ― Marcus Aurelius
+
+16. “If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.” ― Marcus Aurelius
+
+17. “True happiness is to enjoy the present, without anxious dependence upon the future, not to amuse ourselves with either hopes or fears but to rest satisfied with what we have, which is sufficient, for he that is so wants nothing. The greatest blessings of mankind are within us and within our reach. A wise man is content with his lot, whatever it may be, without wishing for what he has not.” — Seneca
+
+18. “The best revenge is to be unlike him who performed the injury.” ― Marcus Aurelius
+
+19. “The soul becomes dyed with the colour of its thoughts.” ― Marcus Aurelius
+
+20. “If anyone tells you that a certain person speaks ill of you, do not make excuses about what is said of you but answer, ‘He was ignorant of my other faults, else he would not have mentioned these alone.’” ― Epictetus
+10 Inspiring Quotes From Modern-Day Stoics
+
+Around 600 years after its inception, Stoicism got lost in the sands of time. For nearly 2,000 years, the philosophy and its scarce literary remnants were condemned to obscurity. Sitting in church archives and private collections, Stoic ideas were shunned in public by Christians and other religions alike, perhaps practiced in private by few.
+
+It is only in the second half of the 20th century that Stoicism found renewed interest, thanks in part to a book by an academic, Problems in Stoicism. The second party to be credited is Albert Ellis, a psychologist who partially relied on Stoic ideas to develop the foundations of cognitive behavioral theory, a now popular approach to treating various cognitive disorders, including anxiety and depression.
+
+As of the 21st century, other prominent figures have taken over the reins, most notably Ryan Holiday, who has been shepherding and popularizing Stoicism through a series of over ten books which have sold over five million copies to date.
+
+Here are 10 inspiring lines from modern-day Stoics to show you how this philosophy can be interpreted and of help to us today:
+
+21. “Your potential, the absolute best you’re capable of—that’s the metric to measure yourself against. Your standards are. Winning is not enough. People can get lucky and win. People can be assholes and win. Anyone can win. But not everyone is the best possible version of themselves.” ― Ryan Holiday
+
+22. “God, grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference.” — Reinhold Niebuhr
+
+23. “People will choose unhappiness over uncertainty.” ― Timothy Ferriss
+
+24. “As a Stoic, I must despise injury, or, rather, I must not feel it, must not be affected by it so that it cannot violate the freedom of my soul…” ― Alexandra David-Néel
+
+25. “Our happiness is not to be found in the judgments of others or in things outside of our control.” — Arianna Huffington
+
+26. “Having to fight for the thing you want doesn’t mean you deserve it any less.” ― Anna Kendrick
+
+27. “Complaining does not work as a strategy. We all have finite time and energy. Any time we spend whining is unlikely to help us achieve our goals. And it won’t make us happier.” ― Randy Pausch
+
+28. “We love being mentally strong, but we hate situations that allow us to put our mental strength to good use.” ― Mokokoma Mokhonoana
+
+29. “A Stoic is someone who transforms fear into prudence, pain into transformation, mistakes into initiation, and desire into undertaking.” — Nassim Taleb
+
+30. “Hard choices, easy life. Easy choices, hard life.” — Jerzy Gregorek
+My 14 Favorite Stoic Quotes From Seneca, Marcus Aurelius & Co.
+
+I’m not an expert in Stoic philosophy, but I’ve been studying and enjoying Stoic wisdom for almost a decade. I read The Daily Stoic by Ryan Holiday several years in a row. Other books I’ve read, at least in parts, include Meditations, Letters from a Stoic, and On the Shortness of Life. I most enjoy the themes of using our time well, remembering our mortality, and focusing on what we can control. My perspective on Stoicism isn’t perfect, but here are 14 of my favorite quotes that I’ve curated over the years:
+
+31. “We are not given a short life but we make it short, and we are not ill-supplied but wasteful of it. Life is long if you know how to use it.” — Seneca
+
+32. “Let the mind be disciplined to understand and to endure its own lot; let it have the knowledge that there is nothing which fortune does not dare — that she has the same jurisdiction over empires as over emperors, the same power over cities as over the citizens who dwell therein. We must not cry out at any of these calamities. Into such a world have we entered, and under such laws do we live.” — Seneca
+
+33. “Receive without pride, let go without attachment.” — Marcus Aurelius
+
+34. “Make peace again with destiny, the destiny that unravels all ties: We are unequal at birth, but are equal in death.” — Seneca
+
+35. “Given that all must die, it is better to die with distinction than to live long.” — Musonius Rufus
+
