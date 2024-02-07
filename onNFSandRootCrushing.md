@@ -6,4 +6,6 @@ Wed  7 Feb 18:20:01 WET 2024
 
 - Since I had never heard about 'root squashing' and find the subject interesting, I decided to open up this document, and just place here my thoughts and findings, as small as they may be.
 
-- checking some notes on bypassing root squashing... need to learn what stuff is doing.
+- The root squashing privilege escalation didn't work as expected and requires a serious error on the part of the admin (to include in /etc/export the line 'no_root_squash') which makes no sense, but makes it very easy to escalate privileges (by using setuid - and making our UID and GID go to 0). Still, an interesting thing to know.
+
+- Need to learn more about root squashing.
