@@ -19,9 +19,15 @@ These won't be optional or great for now - merely just a hobby and part of my le
 
 **Addition:**
 
-3 + 4 = 7
+4 + 3 = 7
 
-+++>++++<[>+<-]>.
+++++>+++<[>+<-]>.
+
+**Subtraction:**
+
+4 - 3 = 1
+
+++++>+++[-<->]<.
 
 **Multiplication:**
 
@@ -29,4 +35,4 @@ These won't be optional or great for now - merely just a hobby and part of my le
 
 ++[>+++++<-]>.
 
-Note: add others and make the process cleaner/more reasonable
+Note: add more if you want, and make the process cleaner/more reasonable
