@@ -4,14 +4,21 @@ BrainFuck is a very minimalistic Turing-Complete programming language with only 
 
 **Operations:**
 
-+            ---->  add 1
--            ---->  subtract 1
-,            ---->  user input
-.            ---->  output value in cell
->            ---->  move one cell to the right
-<            ---->  move one cell to the left
-[            ---->  if byte at data pointer is zero, move to matching ]
-]            ---->  if byte at data pointer is nonzero, move back to [
+'+'            ---->  add 1
+
+'-'            ---->  subtract 1
+
+','            ---->  user input
+
+'.'            ---->  output value in cell
+
+'>'            ---->  move one cell to the right
+
+'<'            ---->  move one cell to the left
+
+'['            ---->  if byte at data pointer is zero, move to matching ']'
+
+']'            ---->  if byte at data pointer is nonzero, move back to '['
 
 I'm "making up" arythmetic operations in BF.
 
@@ -19,19 +26,19 @@ These won't be optional or great for now - merely just a hobby and part of my le
 
 **Addition:**
 
-4 + 3 = 7
+'4 + 3 = 7'
 
 ++++>+++<[>+<-]>.
 
 **Subtraction:**
 
-4 - 3 = 1
+'4 - 3 = 1'
 
 ++++>+++[-<->]<.
 
 **Multiplication:**
 
-2 * 5 = 10
+'2 * 5 = 10'
 
 ++[>+++++<-]>.
 
