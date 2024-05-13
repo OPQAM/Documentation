@@ -1,12 +1,2 @@
-just a test for git
-
-
-
-
-Adding more text to see if the status is updated upstream.
-
-Files seem to be updated but not noted by github.
-
---snip--
-
-
+seg 13 mai 2024 15:46:46 WEST
+final test
