@@ -23,4 +23,6 @@ This creates a solid boundary as to what the class actually represents
 
 - Dividing the software into multiple, independent parts
 
+####Dependency Inversion Principle
 
+- Abstractions should not depend on details. Details should depend on abstractions
