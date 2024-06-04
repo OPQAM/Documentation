@@ -23,3 +23,7 @@ i.e, we can:
 So, we get a single push tothe external repository, but all the different commits at different points in time, which we can use to our benefit
 
 --snip--
+
+Note that after having started my internship and considering my work overload + contributing to the company's gitlab account, my presence on github will be much reduced.
+I simply do not have the extra hours to document all that I want here.
+Still, I have notbooks and other locations which will, sooner or later, be added here (documentation or any other adequate location)
