@@ -86,60 +86,26 @@ Dogs and philosophers do the greatest good and get the fewest rewards.        - 
 I am not an Athenian or a Greek, but a citizen of the world.        - Diogenes
 The mob is the mother of tyrants.        - Diogenes
 Poverty is a virtue which one can teach oneself.        - Diogenes
-
-
-“You could not step twice into the same river.” — Heraclitus
-
-2. “We have two ears and one mouth, so we should listen more than we speak.” — Zeno of Citium
-
-3. “Fate guides the willing, but drags the unwilling.” — Cleanthes
-
-4. “There could be no justice, unless there were also injustice; no courage, unless there were cowardice; no truth, unless there were falsehood.” — Chrysippus
-
-5. “Let your desires be ruled by reason.” — Cicero
-
-6. “I begin to speak only when I’m certain what I’ll say isn’t better left unsaid.” — Cato the Younger
-
-7. “We suffer more often in imagination than in reality.” — Seneca
-
-8. “If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures.” — Musonius Rufus
-
-9. “Men are disturbed not by things but by the principles and notions which they form concerning things.” — Epictetus
-
-10. “You have power over your mind — not outside events. Realize this, and you will find strength.” — Marcus Aurelius
-The 10 Most Popular Stoic Quotes
-
-Okay, so much for the most important quotes from Stoics, but what about the most popular ones? Which ones resonate the most with people? On Goodreads, over 125 million members can vote on their favorite lines from books and authors. Below, we’ve compiled the ten most-voted lines from three of the most well-known Stoics, Marcus Aurelius, Seneca, and Epictetus (mainly because their writings have partially survived to this day) and one other philosopher, Epicurus.
-
-A few caveats: Epicurus founded his own school of thought, Epicureanism, and though it is often depicted as a philosophy contrary to Stoicism, the two approaches actually have a lot in common. Hence, some of his Stoic-leaning ideas are worth including. Each quote has received over 1,000 likes on Goodreads, some up to 5,000. Any line that would be a double mention from above was excluded, and so was any quote we couldn’t at least somewhat verify as correctly attributed.
-
-That said, here we go. These are the 10 most popular Stoic quotes, according to readers on Goodreads:
-
-11. “Dwell on the beauty of life. Watch the stars, and see yourself running with them.” ― Marcus Aurelius
-
-12. “The happiness of your life depends upon the quality of your thoughts.” ― Marcus Aurelius
-
-13. “Do not spoil what you have by desiring what you have not; remember that what you now have was once among the things you only hoped for.” ― Epicurus
-
-14. “Sometimes even to live is an act of courage.” — Seneca
-
-15. “Waste no more time arguing about what a good man should be. Be one.” ― Marcus Aurelius
-
-16. “If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.” ― Marcus Aurelius
-
-17. “True happiness is to enjoy the present, without anxious dependence upon the future, not to amuse ourselves with either hopes or fears but to rest satisfied with what we have, which is sufficient, for he that is so wants nothing. The greatest blessings of mankind are within us and within our reach. A wise man is content with his lot, whatever it may be, without wishing for what he has not.” — Seneca
-
-18. “The best revenge is to be unlike him who performed the injury.” ― Marcus Aurelius
-
-19. “The soul becomes dyed with the colour of its thoughts.” ― Marcus Aurelius
-
-20. “If anyone tells you that a certain person speaks ill of you, do not make excuses about what is said of you but answer, ‘He was ignorant of my other faults, else he would not have mentioned these alone.’” ― Epictetus
-
-Let the mind be disciplined to understand and to endure its own lot; let it have the knowledge that there is nothing which fortune does not dare — that she has the same jurisdiction over empires as over emperors, the same power over cities as over the citizens who dwell therein. We must not cry out at any of these calamities. Into such a world have we entered, and under such laws do we live — Seneca
-
-33. “Receive without pride, let go without attachment.” — Marcus Aurelius
-
-34. “Make peace again with destiny, the destiny that unravels all ties: We are unequal at birth, but are equal in death.” — Seneca
-
-35. “Given that all must die, it is better to die with distinction than to live long.” — Musonius Rufus
+You could not step twice into the same river.        - Heraclitus
+We have two ears and one mouth, so we should listen more than we speak.        - Zeno of Citium
+Fate guides the willing, but drags the unwilling.        - Cleanthes
+There could be no justice, unless there were also injustice; no courage, unless there were cowardice; no truth, unless there were falsehood.        - Chrysippus
+Let your desires be ruled by reason.        - Cicero
+I begin to speak only when I’m certain what I’ll say isn’t better left unsaid.        - Cato the Younger
+We suffer more often in imagination than in reality.        - Seneca
+If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures.        - Musonius Rufus
+Men are disturbed not by things but by the principles and notions which they form concerning things.        - Epictetus
+You have power over your mind — not outside events. Realize this, and you will find strength.        - Marcus Aurelius
+Dwell on the beauty of life. Watch the stars, and see yourself running with them.        - Marcus Aurelius
+The happiness of your life depends upon the quality of your thoughts.        - Marcus Aurelius
+Do not spoil what you have by desiring what you have not; remember that what you now have was once among the things you only hoped for.        - Epicurus
+Sometimes even to live is an act of courage.        - Seneca
+Waste no more time arguing about what a good man should be. Be one.        - Marcus Aurelius
+If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.        - Marcus Aurelius
+The best revenge is to be unlike him who performed the injury.        - Marcus Aurelius
+The soul becomes dyed with the colour of its thoughts.        - Marcus Aurelius
+If anyone tells you that a certain person speaks ill of you, do not make excuses about what is said of you but answer, ‘He was ignorant of my other faults, else he would not have mentioned these alone.        - Epictetus
+Receive without pride, let go without attachment.        - Marcus Aurelius
+Make peace again with destiny, the destiny that unravels all ties: We are unequal at birth, but are equal in death.        - Seneca
+Given that all must die, it is better to die with distinction than to live long.        - Musonius Rufus
 
