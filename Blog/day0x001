@@ -1,0 +1,51 @@
+Stardate: -298434.7709218782
+
+
+
+Today I (officially) begin my journey towards mastering systems programming and deepening my understanding of computer architecture.
+
+I'm currently employed as Tech Support in a startup, and while I'm enjoying my work, I'm hungry for more. For the past few months, I've been studying subjects related to Assembly, C and other low-level programming concepts.
+
+In this blog, I hope to document my progress - which is now mostly focused on the C language.
+
+
+
+I'm currently taking a Udemy course and reading the book "C Programming: A Modern Approach". I enjoy it immensely: it offers insights that bridge theory and practice.
+
+Initially, I was drawn to a course promising to teach bootloader creation... It's a fascinating topic. Alas, the course's "some knowledge of Assembly" prerequisite was a serious understatement.
+
+I set that to the side for now.
+
+
+
+My second attempt wasn't much better: a course on C programming - specifically pointers, also brought a
+
+bitter taste to my mouth. The instructor made what I believe to be a serious mistake: casting the result of malloc. This practice, while necessary and common in C++, is superfluous and can potentially lead to errors in C.
+
+My suspicion is that the instructor is well-versed in C++, but not so much in C.
+
+
+
+Third time's the charm! I've settled on an 'advanced C course' that is well-paced and informative.
+
+
+
+This hit-and-miss selection of courses highlights the need for accurate and clear instruction, I think.
+
+As I progress with my learning, I'll document it here, sharing my choices. This blog will serve as both a record of my growth and a resource for others on similar journeys.
+
+
+
+IT is big.
+
+Like, really big.
+
+It's bloody huge. Massive, really.
+
+And we need to make choices, hit walls, fail and succeed, and hopefully, learn in the process.
+
+
+
+
+
+"There is no need to build a labyrinth when the entire universe is one." Jorge Luis Borges
