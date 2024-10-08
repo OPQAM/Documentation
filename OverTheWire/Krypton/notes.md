@@ -73,12 +73,85 @@ The message plaintexts are in American English (*** very important)
 - They were produced from the same key (*** even better!)
 Enjoy."
 
+-> "Frequency Analysis" (letter counting)
+Most frequent trigrams:
+grep -o ... combined_cipher.txt | sort | uniq -c | sort -nr | head -10
+(digrams with .. instead)
+Found most frequent letter (.)
+Changing file, swapping D for h
+sed -i 's/D/h/g' combined_cipher
+Collapsing, in vim, all empty spaces:
+:%s/\s\+//g
+Creating spaces around the word 'the':
+sed 's/the/ the /g' filename
+Repeated doubles in text:
+grep -o '\([A-Z]\)\1' filename | sort | uniq -c | sort -nr
 
-
-Password:
+Password: BRUTE
 ### Krypton 4
-""
+"So far we have worked with simple substitution ciphers. 
+They have also been ‘monoalphabetic’, meaning using a fixed key, 
+and giving a one to one mapping of plaintext (P) to ciphertext (C). 
+Another type of substitution cipher is referred to as ‘polyalphabetic’,
+where one character of P may map to many, or all, possible 
+ciphertext characters.
 
+An example of a polyalphabetic cipher is called a Vigenère Cipher. 
+It works like this:
+
+If we use the key(K) ‘GOLD’, and P = PROCEED MEETING AS AGREED, 
+then “add” P to K, we get C. When adding, if we exceed 25, then 
+we roll to 0 (modulo 26).
+
+P P R O C E E D M E E T I N G A S A G R E E D\
+K G O L D G O L D G O L D G O L D G O L D G O\
+becomes:
+
+P 15 17 14 2 4 4 3 12 4 4 19 8 13 6 0 18 0 6 17 4 4 3\
+K 6 14 11 3 6 14 11 3 6 14 11 3 6 14 11 3 6 14 11 3 6 14\
+C 21 5 25 5 10 18 14 15 10 18 4 11 19 20 11 21 6 20 2 8 10 17\
+So, we get a ciphertext of:
+
+VFZFK SOPKS ELTUL VGUCH KR
+This level is a Vigenère Cipher. You have intercepted two longer, 
+english language messages (American English). 
+You also have a key piece of information. You know the key length!
+
+For this exercise, the key length is 6. 
+The password to level five is in the usual place, 
+encrypted with the 6 letter key."
+
+
+sed '/^$/d' yourfile.txt | tr -d '[:space:]'
+sed '/^$/d' yourfile.txt | tr -d '[:space:]' | fold -w 6
+sed '/^$/d' yourfile.txt | tr -d '[:space:]' | fold -w 6 | xclip -selection clipboard
+
+Make a column:
+cat found2 >> found1
+grep -v '^$' found1 | tr -d ' ' | fold -w 6 > baseline
+fold -w 6 < found3 > baseline
+Altogether:
+grep -v '^$' found1 | tr -d ' ' | fold -w 6 | xclip -selection clipboard
+
+
+---
+Basic parser:
+
+#!/bin/bash
+
+for i in {1..6}; do
+    echo "Position $i:"
+    cut -c $i baseline | sort | uniq -c | sort -nr
+done
+---
+see python script
+---
+
+Changing column in Vim (characterd D into h):
+CTRL + V
+(select column)
+:
+s/D/h/g
 
 Password:
 ### Krypton 5

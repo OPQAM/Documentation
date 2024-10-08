@@ -1,0 +1,39 @@
+import sys
+
+def shift_letter(letter, shift):
+    if not letter.isalpha():
+        return letter
+
+    # Work with lowercase for consistency
+    lower_letter = letter.lower()
+    start = ord('a')
+
+    # Perform the shift
+    result = chr((ord(lower_letter) - start + shift) % 26 + start)
+
+    print(f"Shifting {letter} by {shift} to {result}")
+    return result
+
+def main():
+    if len(sys.argv) != 4:
+        print("Usage: python script.py filename column_number shift")
+        return
+    filename = sys.argv[1]
+    column = int(sys.argv[2]) - 1  # Convert to 0-based index
+    shift = int(sys.argv[3])
+
+    with open(filename, 'r') as f:
+        lines = f.readlines()
+
+    for i in range(len(lines)):
+        if column < len(lines[i].strip()):
+            chars = list(lines[i].strip())
+            chars[column] = shift_letter(chars[column], shift)
+            lines[i] = ''.join(chars) + '\n'
+
+    with open(filename, 'w') as f:
+        f.writelines(lines)
+
+if __name__ == "__main__":
+    main()
+

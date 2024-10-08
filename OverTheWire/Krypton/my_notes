@@ -1,0 +1,11 @@
+
+3 i to 3 22
+4 c to e 2
+5 j to e 21
+
+single text in bulk:
+
+tr -d '\n' < baseline1 > baseline_test
+
+
+

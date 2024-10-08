@@ -1,0 +1,36 @@
+import sys
+
+# Usage:
+# python shift.py yourfile.txt 2 9
+# column, shift amount
+
+def shift_letter(letter, shift):
+    if not letter.isalpha():
+        return letter
+    start = ord('A') if letter.isupper() else ord('a')
+    return chr((ord(letter) - start + shift) % 26 + start)
+
+def main():
+    if len(sys.argv) != 4:
+        print("Usage: python script.py filename column_number shift")
+        print("Example: python script.py text.txt 2 9")
+        return
+
+    filename = sys.argv[1]
+    column = int(sys.argv[2]) - 1  # Convert to 0-based index
+    shift = int(sys.argv[3])
+
+    with open(filename, 'r') as f:
+        lines = f.readlines()
+
+    for i in range(len(lines)):
+        if column < len(lines[i]):
+            chars = list(lines[i])
+            chars[column] = shift_letter(chars[column], shift)
+            lines[i] = ''.join(chars)
+
+    with open(filename, 'w') as f:
+        f.writelines(lines)
+
+if __name__ == "__main__":
+    main()
